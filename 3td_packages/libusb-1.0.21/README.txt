@@ -1,0 +1,1 @@
+MinGW_32 libusb-1.0.21
